@@ -9,7 +9,8 @@ Back end for an e-commerce site featuring an Express.js API and using Sequelize 
 ## Usage
 
 To run, first add your database name, MySQL username, and MySQL password to an environment variable file.
-
 Enter schema and seed commands.
-
-Enter the command to invoke the application.
+After seeding, run the following command to invoke the application:
+```md
+npm start
+```
